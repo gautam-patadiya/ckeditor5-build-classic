@@ -36,7 +36,7 @@ import Mention from '@ckeditor/ckeditor5-mention/src/mention';
 export default class ClassicEditor extends ClassicEditorBase {}
 
 function Markdown( editor ) {
-    editor.data.processor = new GFMDataProcessor();
+	editor.data.processor = new GFMDataProcessor();
 }
 
 // Plugins to include in the build.
