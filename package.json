@@ -1,7 +1,7 @@
 {
-  "name": "@gautam-patadiya/ckeditor5-build-classic",
-  "version": "1.0.0",
-  "description": "CKEditor 5 classic editor build ========================================",
+  "name": "@gautam-patadiya/ckeditor-custom-build",
+  "version": "0.0.4",
+  "description": "MIT Open Learning custom build of CKEditor5",
   "main": "./build/ckeditor.js",
   "files": [
     "build"
