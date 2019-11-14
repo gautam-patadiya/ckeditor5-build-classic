@@ -9,6 +9,8 @@ CKEditor 5 classic editor build
 
 The classic editor build for CKEditor 5. Read more about the [classic editor build](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/overview.html#classic-editor) and see the [demo](https://ckeditor.com/docs/ckeditor5/latest/examples/builds/classic-editor.html).
 
+The repository has been forked from original [ckeditor5-build-classic](https://github.com/ckeditor/ckeditor5-build-classic). New plugins are added such as Font, HorizontalLine, Alignment, Mention and Markdown-gfm
+
 ![CKEditor 5 classic editor build screenshot](https://c.cksource.com/a/1/img/npm/ckeditor5-build-classic.png)
 
 ## Documentation
